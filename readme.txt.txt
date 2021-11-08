@@ -1,1 +1,1 @@
-全部修改掉
+Creating a new branch is quick.
